@@ -22,7 +22,7 @@ This is a modern, responsive website for promoting and selling bicycles. The web
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yuliaPel/mybyke.git
+    git clone https://github.com/yuliaPel/mybike-landing.git
     cd mybyke
     ```
 2. Install dependencies:
@@ -35,4 +35,4 @@ This is a modern, responsive website for promoting and selling bicycles. The web
     ```
 
 ## Demo
-[DEMO LINK](https://yuliaPel.github.io/mybyke/)
+[DEMO LINK]( https://yuliapel.github.io/mybike-landing/)
