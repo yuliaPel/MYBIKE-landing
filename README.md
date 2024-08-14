@@ -1,6 +1,8 @@
 # MyByke
 
 This is a modern, responsive website for promoting and selling bicycles. The website features a clean design, easy navigation, and interactive elements that enhance the user experience.
+- [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+- [DEMO LINK]( https://yuliapel.github.io/mybike-landing/)
 
 ## Features
 
@@ -34,5 +36,3 @@ This is a modern, responsive website for promoting and selling bicycles. The web
     npm start
     ```
 
-## Demo
-[DEMO LINK]( https://yuliapel.github.io/mybike-landing/)
